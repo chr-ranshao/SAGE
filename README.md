@@ -10,12 +10,12 @@
 
 ## 安装教程
 
-1. 网址(推荐)：<>
+1. 网址(推荐)：<https://chr-ranshao.gitee.io/sage>
 2. 网址（备用）:<https://chr-ranshao/SAGE>
 
 ## 使用说明
 
-1. 开源地址（Gitee):<>
+1. 开源地址（Gitee):<https://gitee.com/chr-ranshao/SAGE>
 2. 开源地址（Github）：<https://github.com/chr-ranshao/SAGE>
 
 ## 作者
