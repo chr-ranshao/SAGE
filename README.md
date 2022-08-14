@@ -20,8 +20,8 @@
 
 ## 作者
 
-1. 上海市华东师范大学附属第二中学 2025 届 陈浩然 <https://github.com/chr-ranshao>
-2. 进才中学 2025 届 张思哲 <https://github.com/Zhe-SH-CN>
+1. 上海民办张江集团学校 2022 届 陈浩然 <https://github.com/chr-ranshao>
+2. 上海民办张江集团学校 2022 届 张思哲 <https://github.com/Zhe-SH-CN>
 
 ## 参与贡献
 
