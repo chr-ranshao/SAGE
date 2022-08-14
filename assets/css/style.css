@@ -1,3 +1,9 @@
+:root {
+  /* 颜色 */
+  --yellow: rgb(248, 229, 136);
+  --pink: #fac4e2;
+}
+
 body {
   margin: 0px;
   height: 100vh;
@@ -47,6 +53,9 @@ body {
   font-weight: 500;
   color: rgb(72, 72, 72);
 }
+.oa {
+  overflow: auto;
+}
 .box {
   overflow-y: auto;
 }
@@ -60,6 +69,21 @@ body {
   font-size: 28px;
   color: rgb(234, 248, 212);
   background-color: rgb(116, 133, 243);
+}
+.ah {
+  min-height: 150px;
+  height: auto;
+  max-height: 500px;
+}
+.lanMu {
+  min-height: 100px;
+  height: auto;
+  max-height: 600px;
+}
+.gongNeng {
+  min-height: 150px;
+  height: auto;
+  max-height: 400px;
 }
 /* 当屏幕宽度小于600的时候要改变的css */
 @media (max-width: 600px) {
@@ -85,5 +109,8 @@ body {
   }
   .biaoTiLan {
     font-size: 15px;
+  }
+  .gongNeng {
+    min-height: 80px;
   }
 }
